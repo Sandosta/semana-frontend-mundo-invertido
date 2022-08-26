@@ -31,6 +31,8 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
     - Manipulação do DOM
     - Introdução ao Firebase
     - Integração com o Firebase
+    
+Link para acessar o site: https://reliable-snickerdoodle-a9b50f.netlify.app/
 
 ## 🎨 Variáveis do Tema CSS
 ```css
